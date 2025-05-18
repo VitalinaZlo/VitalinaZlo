@@ -5,21 +5,30 @@
 
   * [Проект приложения-переводчика c русского на алеутский и обратно.](https://github.com/VitalinaZlo/Translator_Russian-Aleutian) Проект представляет собой модель машинного перевода формата «русский-алеутский», обученную на основе `MarianMT` и пользовательского набора данных для автоматизации переводов. Проект также имеет графический интерфейс написанный на `PyQt5`;
 
+    ![Status](https://img.shields.io/badge/build-in_progress-green?style=flat-square&label=Status&color=c1bc1f)
   * [Проект приложения для учёта заработной платы локомотивных бригад.](https://github.com/VitalinaZlo/Brigades-salary-manager) Проект представляет собой приложение на `customtkinter` и позволяет управлять данными сотрудников, рейсов, состава бригад, календаря смен и расчёта выплат с использованием базы данных `PostgreSQL`.
 
-    ![Status](https://camo.githubusercontent.com/eed88c4f72e618cc5c5518da1f86fce4dd741c41aedcaa0c0d4f3a8465ad5657/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6275696c642d636f6d706c657465642d677265656e3f7374796c653d666c61742d737175617265266c6162656c3d53746174757326636f6c6f723d336463333232)
+    ![Status](https://img.shields.io/badge/build-completed-green?style=flat-square&label=Status&color=3dc322)
 
 ## Олимпиадные проекты:
 
 ### Python
   * [Проект по XV Международной цифровой олимпиаде «Волга-IT'24» в дисциплине «Искусственный интеллект и анализ данных».](https://github.com/VitalinaZlo/VolgaIT_2024) Проект направлен на автоматическое распознавание адресов домов из диспечерских сообщений об отключениях коммунальных ресурсов с помощью `Natasha`;
+
+    ![Status](https://img.shields.io/badge/build-completed-green?style=flat-square&label=Status&color=3dc322)
   * [Проект по олимпиаде «Траектория будущего 2025» в дисциплине «Проектирование нейросети на Python».](https://github.com/VitalinaZlo/Trajectory-future2024_Weather_predictor) Проект предназначен для предсказания погоды по месяцам на основе данных предыдущих лет в интерфейсе `PyQt5`, обеспечивающем обучение модели с помощью `TensorFlow` и `Keras`, настройку параметров и выбор года предсказания.
+
+    ![Status](https://img.shields.io/badge/build-modifications-green?style=flat-square&label=Status&color=00c267)
 
 ### SQL
   * [Проект по чемпионату «IT-Планета 2024» в конкурсе «Работа с СУБД Pangolin» от СберТеха.](https://github.com/VitalinaZlo/IT-planeta2024_SberTex_PostgreSQL) Проект предназначен для нахождения маршрута в базе данных `PostgreSQL` с максимальным количеством станций в заданные даты, учитывая расписание поездов, условия пересадок и ограничения.
+
+    ![Status](https://img.shields.io/badge/build-completed-green?style=flat-square&label=Status&color=3dc322)
     
 ### 1С
   * [Проект по чемпионату «IT-Планета 2025» в конкурсе «Создание проектов автоматизации бизнес-процессов предприятия на платформе 1С:Предприятие 8».](https://github.com/VitalinaZlo/IT-planeta2025_1C_Enterprise_8) Проект предназначен для чтения данных из файлов Excel (`.xls`, `.xlsx`) и их обработки в 1С:Предприятии.
+
+    ![Status](https://img.shields.io/badge/build-completed-green?style=flat-square&label=Status&color=3dc322)
 
 ## Инструменты:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
