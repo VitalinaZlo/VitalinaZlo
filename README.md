@@ -5,7 +5,7 @@
 
   * [Проект приложения-переводчика c русского на алеутский и обратно.](https://github.com/VitalinaZlo/Translator_Russian-Aleutian) Проект представляет собой модель машинного перевода формата «русский-алеутский», обученную на основе `MarianMT` и пользовательского набора данных для автоматизации переводов. Проект также имеет графический интерфейс написанный на `PyQt5`;
 
-    ![Status](https://img.shields.io/badge/build-in_progress-green?style=flat-square&label=Status&color=c1bc1f)
+    ![Status](https://img.shields.io/badge/build-in_progress-green?style=flat-square&label=Status&color=acec22)
   * [Проект приложения для учёта заработной платы локомотивных бригад.](https://github.com/VitalinaZlo/Brigades-salary-manager) Проект представляет собой приложение на `customtkinter` и позволяет управлять данными сотрудников, рейсов, состава бригад, календаря смен и расчёта выплат с использованием базы данных `PostgreSQL`.
 
     ![Status](https://img.shields.io/badge/build-completed-green?style=flat-square&label=Status&color=3dc322)
