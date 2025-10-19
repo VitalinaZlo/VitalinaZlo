@@ -49,9 +49,10 @@
   * Arduino.
 
 ## Статистика:
-<h4>Немного задачек с Leetcode:</h4>
+<!-- <h4>Немного задачек с Leetcode:</h4> 
 
-![Статистика по Leetcode](https://leetcard.jacoblin.cool/vitalina_zlo?font=Delius)
+// ![Статистика по Leetcode](https://leetcard.jacoblin.cool/vitalina_zlo?font=Delius)
+-->
 
 <h4>О проектах:</h4>
 
@@ -59,8 +60,3 @@
 
 ## Cвязь и сотрудничество:
 Я открыта для новых возможностей и проектов, которые позволят мне развиваться в области Data Science и искусственного интеллекта. Если у вас есть интересные идеи или предложения, не стесняйтесь связаться со мной!
-
-
-<!--
-![Статистика по Leetcode](https://leetcard.jacoblin.cool/vitalina_zlo?ext=heatmap)
--->
