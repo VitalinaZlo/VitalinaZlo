@@ -1,15 +1,6 @@
 # Добро пожаловать!
 Меня зовут Виктория Злобова, и я — начинающий кодер в сфере 1С и машинного обучения. Учусь, активно осваиваю программирование и ищу работу.
 
-## Pet-проекты:
-
-  * [Проект приложения-переводчика c русского на алеутский и обратно.](https://github.com/VitalinaZlo/Translator_Russian-Aleutian) Проект представляет собой модель машинного перевода формата «русский-алеутский», обученную на основе `MarianMT` и пользовательского набора данных для автоматизации переводов. Проект также имеет графический интерфейс написанный на `PyQt5`;
-
-    ![Status](https://img.shields.io/badge/build-in_progress-green?style=flat-square&label=Status&color=acec22)
-  * [Проект приложения для учёта заработной платы локомотивных бригад.](https://github.com/VitalinaZlo/Brigades-salary-manager) Проект представляет собой приложение на `customtkinter` и позволяет управлять данными сотрудников, рейсов, состава бригад, календаря смен и расчёта выплат с использованием базы данных `PostgreSQL`.
-
-    ![Status](https://img.shields.io/badge/build-completed-green?style=flat-square&label=Status&color=3dc322)
-
 ## Олимпиадные проекты:
 
 ### Python
@@ -19,17 +10,26 @@
   * [Проект по олимпиаде «Траектория будущего 2025» в дисциплине «Проектирование нейросети на Python».](https://github.com/VitalinaZlo/Trajectory-future2024_Weather_predictor) Проект предназначен для предсказания погоды по месяцам на основе данных предыдущих лет в интерфейсе `PyQt5`, обеспечивающем обучение модели с помощью `TensorFlow` и `Keras`, настройку параметров и выбор года предсказания.
 
     ![Status](https://img.shields.io/badge/build-modifications-green?style=flat-square&label=Status&color=00c267)
-
-### SQL
-  * [Проект по чемпионату «IT-Планета 2024» в конкурсе «Работа с СУБД Pangolin» от СберТеха.](https://github.com/VitalinaZlo/IT-planeta2024_SberTex_PostgreSQL) Проект предназначен для нахождения маршрута в базе данных `PostgreSQL` с максимальным количеством станций в заданные даты, учитывая расписание поездов, условия пересадок и ограничения.
-
-    ![Status](https://img.shields.io/badge/build-completed-green?style=flat-square&label=Status&color=3dc322)
     
 ### 1С
   * [Проект по Международной цифровой олимпиаде «Волга-IT'25» в дисциплине «1С-программирование».](https://github.com/VitalinaZlo/VolgaIT-2025_1C_Enterprise_8) Проект предназначен для автоматизации деятельности компаний, оказывающих `тарифицируемые услуги`, и включает в себя разработку конфигурации 1С для учёта договоров с покупателями, ведения тарифов с пакетами базовых услуг и условиями оплаты при превышении лимитов, формирования актов оказания услуг и автоматического расчёта итоговых сумм с проведением через регистры накопления и взаиморасчётов.
 
     ![Status](https://img.shields.io/badge/build-in_progress-green?style=flat-square&label=Status&color=acec22)
   * [Проект по чемпионату «IT-Планета 2025» в конкурсе «Создание проектов автоматизации бизнес-процессов предприятия на платформе 1С:Предприятие 8».](https://github.com/VitalinaZlo/IT-planeta2025_1C_Enterprise_8) Проект предназначен для чтения данных из файлов Excel (`.xls`, `.xlsx`) и их обработки в 1С:Предприятии.
+
+    ![Status](https://img.shields.io/badge/build-completed-green?style=flat-square&label=Status&color=3dc322)
+    
+### SQL
+  * [Проект по чемпионату «IT-Планета 2024» в конкурсе «Работа с СУБД Pangolin» от СберТеха.](https://github.com/VitalinaZlo/IT-planeta2024_SberTex_PostgreSQL) Проект предназначен для нахождения маршрута в базе данных `PostgreSQL` с максимальным количеством станций в заданные даты, учитывая расписание поездов, условия пересадок и ограничения.
+
+    ![Status](https://img.shields.io/badge/build-completed-green?style=flat-square&label=Status&color=3dc322)
+
+## Pet-проекты:
+
+  * [Проект приложения-переводчика c русского на алеутский и обратно.](https://github.com/VitalinaZlo/Translator_Russian-Aleutian) Проект представляет собой модель машинного перевода формата «русский-алеутский», обученную на основе `MarianMT` и пользовательского набора данных для автоматизации переводов. Проект также имеет графический интерфейс написанный на `PyQt5`;
+
+    ![Status](https://img.shields.io/badge/build-in_progress-green?style=flat-square&label=Status&color=acec22)
+  * [Проект приложения для учёта заработной платы локомотивных бригад.](https://github.com/VitalinaZlo/Brigades-salary-manager) Проект представляет собой приложение на `customtkinter` и позволяет управлять данными сотрудников, рейсов, состава бригад, календаря смен и расчёта выплат с использованием базы данных `PostgreSQL`.
 
     ![Status](https://img.shields.io/badge/build-completed-green?style=flat-square&label=Status&color=3dc322)
 
@@ -62,4 +62,4 @@
 ![Лучшие языки](https://github-readme-stats.vercel.app/api/top-langs/?username=VitalinaZlo&theme=dark&border_color=706968&hide=javascript,cython,fortran,c,c%2B%2B&langs_count=3&custom_title=Статистика%20языков%20в%20проектах)
 
 ## Cвязь и сотрудничество:
-Я открыта для новых возможностей и проектов, которые позволят мне развиваться в области Data Science и искусственного интеллекта. Если у вас есть интересные идеи или предложения, не стесняйтесь связаться со мной!
+Я открыта для новых возможностей и проектов, которые позволят мне развиваться в области 1С, Data Science и искусственного интеллекта. Если у вас есть интересные идеи или предложения, не стесняйтесь связаться со мной!
